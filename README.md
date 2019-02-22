@@ -1,6 +1,10 @@
 # lightsop
 
-A new Flutter project.
+A simple example of my wors in flutter 
+its a ui design of a light shop that have an augmented reality features.
+
+<img src="images/Screenshot_20190222-091856.jpg" width="350"> <img src="images/Screenshot_20190222-094147.jpg" width="350"> <img src="images/Screenshot_20190222-094212.jpg" width="350">
+
 
 ## Getting Started
 
